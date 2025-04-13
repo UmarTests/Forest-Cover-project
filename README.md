@@ -1,6 +1,6 @@
 ---
-🔹 Author: Mohammad Umar  
-🔹 Contact: umar.test.49@gmail.com  
+🔹 **Author**: Mohammad Umar  
+🔹 **Contact**: [umar.test.49@gmail.com](mailto:umar.test.49@gmail.com)  
 ---
 
 # 🌲 Forest Cover Type Prediction – Machine Learning Project
